@@ -1,0 +1,8 @@
+node_modules
+client/dist
+client/dist-demo
+server/data
+_archive
+*.log
+.DS_Store
+Thumbs.db
